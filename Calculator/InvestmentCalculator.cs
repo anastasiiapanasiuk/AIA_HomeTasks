@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Calculator
-
 {
     enum TransactionType { Buy, Sell }
+
     class InvestmentCalculator
     {
 
